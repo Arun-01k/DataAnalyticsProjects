@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio
+# 📊 Data Analytics Projects
 
 This repository includes projects showcasing hands-on data analysis.
 
