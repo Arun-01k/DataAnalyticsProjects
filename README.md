@@ -13,11 +13,11 @@ A comprehensive SQL project based on hospital data involving patients, doctors, 
 - Obesity detection using BMI logic
 - Insurance cost simulation and daily admission delta
 
-**File**: `healthcare_sql_analysis_FINAL.sql`
+**File**: [`healthcare_sql_analysis_FINAL.sql`](https://github.com/Arun-01k/DataAnalyticsProjects/blob/main/healthcare_sql_analysis.sql)
 
 ---
 
-## 📉 Layoffs Data Cleaning & EDA (SQL)
+## 📉 Layoffs Since COVID_19 Data Cleaning & EDA (SQL)
 
 **Description**:  
 Exploratory data analysis and cleaning of global tech layoffs data using SQL. Focus areas:
