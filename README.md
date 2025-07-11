@@ -21,8 +21,9 @@ A comprehensive SQL project based on hospital data involving patients, doctors, 
 
 **Description**:  
 Exploratory data analysis and cleaning of global tech layoffs data using SQL. Focus areas:
-- Data cleaning (nulls, outliers, standardization)
-- Company-level and country-level layoff insights
+- Handled null values, standardized company/country names
+- Created derived columns for insight (e.g., year, continent)
+- Performed EDA on number of layoffs, top affected industries, and time trends
 
 **File**: `Data_Cleaning_and_EDA.sql`  
 
